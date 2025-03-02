@@ -1,31 +1,7 @@
-# Scientia Libera License (SLL)
-
-[![SLL-1.0](https://img.shields.io/badge/License-SLL--1.0-blue)](https://github.com/DilemmaGX/SLL)
-
-A copyleft license designed for open knowledge sharing with AI-friendly provisions.
-
-## Key Features
-
-✅ **Four Essential Freedoms**  
-1. Freedom to use for any purpose  
-2. Freedom to study and modify  
-3. Freedom to redistribute copies  
-4. Freedom to improve and release derivatives  
-
-✅ **Special Provisions**  
-- Mandatory attribution in prominent locations  
-- Explicit AI/ML training permission  
-- Anti-commercial distribution clause  
-- Strong copyleft inheritance  
-- Source code transparency protection  
-
-## Template SLL
-
-```
 SCIENTIA LIBERA LICENSE (SLL)
 Version 1.0, March 2025
 
-Copyright (c) <YEAR> <AUTHOR>
+Copyright (c) 2025 DilemmaGX
 
 TERMS AND CONDITIONS
 
@@ -66,14 +42,3 @@ TERMS AND CONDITIONS
 DISCLAIMER
 THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 AUTHORS SHALL NOT BE HELD LIABLE FOR ANY DAMAGES ARISING FROM USE.
-```
-
-## License Badge
-
-```markdown
-[![SLL-1.0](https://img.shields.io/badge/License-SLL--1.0-blue)](https://github.com/DilemmaGX/SLL)
-```
-
-```html
-<a href="https://github.com/DilemmaGX/SLL"><img src="https://img.shields.io/badge/License-SLL--1.0-blue" /></a>
-```
